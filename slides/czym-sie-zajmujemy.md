@@ -1,7 +1,3 @@
-##  Czym się zajmujemy
+![](img/2.jpg)
 
-Zespół Employers1 to nie tylko ICCU
-
-* ICCU
-* Joby odpowiedzialne za proces publikacji
-* Api kredytów
+\* Zespół Employers1 to nie tylko ICCU
